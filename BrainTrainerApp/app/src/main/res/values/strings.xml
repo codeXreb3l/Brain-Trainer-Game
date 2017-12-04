@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BrainTrainerApp</string>
+    <string name="startButton">Button</string>
+    <string name="go">Go!</string>
+    <string name="timerView">30s</string>
+    <string name="ScoreKeeper">0/0</string>
+    <string name="SumGenerator">31 + 33</string>
+    <string name="tag3">40</string>
+    <string name="tag0">10</string>
+    <string name="tag1">20</string>
+    <string name="tag2">30</string>
+    <string name="Result">Correct!</string>
+    <string name="play_again">Play Again</string>
+</resources>
